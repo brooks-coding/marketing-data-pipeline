@@ -1,0 +1,8 @@
+campaign_id,campaign_name,channel,start_date
+1,Spring Launch,email,2024-02-01
+2,Summer Promo,paid_social,2024-03-17
+3,Back to School,paid_search,2024-05-01
+4,Black Friday,paid_social,2024-06-15
+5,Holiday Push,email,2024-07-30
+6,Referral Boost,referral,2024-09-13
+7,Product Webinar,linkedin,2024-10-28
